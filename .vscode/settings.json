@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.port": 80,
+    "liveServer.settings.root": "/",
+    "editor.formatOnSave": true,
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass"
+    ]
+}
